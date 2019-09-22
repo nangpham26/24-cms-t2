@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1:3306
--- Generation Time: Sep 22, 2019 at 07:49 AM
+-- Generation Time: Sep 22, 2019 at 07:52 AM
 -- Server version: 5.7.26
 -- PHP Version: 7.3.5
 
@@ -359,7 +359,7 @@ INSERT INTO `wp_postmeta` (`meta_id`, `post_id`, `meta_key`, `meta_value`) VALUE
 (65, 31, '_wp_trash_meta_time', '1569134479'),
 (66, 32, '_edit_lock', '1569138235:1'),
 (67, 1, '_edit_lock', '1569138325:1'),
-(68, 33, '_edit_lock', '1569138551:1');
+(68, 33, '_edit_lock', '1569138613:1');
 
 -- --------------------------------------------------------
 
